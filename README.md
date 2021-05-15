@@ -1,1 +1,1 @@
-# IoTProject
+Me and my teammate developed a smart garden that will record the surrounding temperature, light level, and soil moisture of the plant. We have build an automated system that waters the plant using a water pump when the soil is too dry, switches on the light when it is too dark and turns on the fan to bring in fresh air when the temperature gets too high. The soil moisture sensor will measure the amount of water in the soil and maintain an ideal condition for the plants. We used Raspberry Pi to receive data from different sensors and control different actuators. 
